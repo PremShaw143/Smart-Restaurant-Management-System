@@ -5,9 +5,8 @@ This project allows users to browse menu items, place multiple orders, and track
 
 ---
 
-Live : smart-restaurant-management-system-udnrybhfkwawzzwx84usyt
-.streamlit.app
-
+## 🚀 Live Demo  
+🔗 https://smart-restaurant-management-system-udnrybhfkwawzzwx84usyt.streamlit.app
 
 ## 🚀 Features
 
